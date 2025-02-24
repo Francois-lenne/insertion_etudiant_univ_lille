@@ -1,4 +1,0 @@
-A faire :
-
-
-récupérer depuis la liste générer par la boucle
